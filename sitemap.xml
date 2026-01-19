@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/</loc><priority>1.0</priority></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/01_Linux_Essentials.html</loc></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/02_Verilog_Essentials.html</loc></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/03_DFT_Fundamentals.html</loc></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/04_Scan_Design.html</loc></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/05_ATPG_Basics.html</loc></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/06_Fault_Models.html</loc></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/07_Boundary_Scan.html</loc></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/08_MBIST.html</loc></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/09_BIST.html</loc></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/10_DFT_Compiler.html</loc></url>
+  <url><loc>https://vlsi-praveen.github.io/dft-blog/11_Industry_Practices.html</loc></url>
+</urlset>
